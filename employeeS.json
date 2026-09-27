@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "name" : "shervin",
+        "age" : 17,
+        "job" : "frontEndDeveloper"
+    },
+    
+    {
+        "id" : 2,
+        "name" : "beni",
+        "age" : 17,
+        "job" : "backEndDeveloper"
+    },
+    
+    {
+        "id" : 3,
+        "name" : "Abol",
+        "age" : 17,
+        "job" : "karegar"
+    }
+]

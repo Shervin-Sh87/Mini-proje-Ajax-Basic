@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#btn-load{
+    padding: 1rem;
+    background: linear-gradient(to top left, green , rgb(26, 206, 26));
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: all 0.4s;
+    font-weight: 300;
+    margin-right: 3rem;
+}
+
+#btn-load:hover{
+    background: linear-gradient(to top left, rgb(26, 206, 26) , green);
+    transform: scale(1.3);
+    border: black 0.05rem solid;
+    color: white;
+    font-weight: 600;
+}
+
+
+#btn-loads{
+    padding: 1rem;
+    background: linear-gradient(to top left, green , rgb(26, 206, 26));
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: all 0.4s;
+    font-weight: 300;
+    margin-right: 3rem;
+}
+
+#btn-loads:hover{
+    background: linear-gradient(to top left, rgb(26, 206, 26) , green);
+    transform: scale(1.3);
+    border: black 0.05rem solid;
+    color: white;
+    font-weight: 600;
+}
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+#output ul{
+    list-style: circle;
+    margin: 1rem 0;
+}
+
+.contant-data{
+    display: block;
+    text-align: left;
+    padding: 3rem;
+    margin-top: 1rem;
+}
